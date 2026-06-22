@@ -1,0 +1,4 @@
+[RULE: IZHAR] Izhar means 'to make clear'. Pronounce the Noon Sakinah or Tanween clearly without extra nasalization (Ghunnah) when followed by throat letters: ء, ه, ع, ح, غ, خ. Example: مِنْ حَكِيمٍ
+[RULE: IDGHAM] Idgham means 'to merge'. Merge the Noon Sakinah or Tanween into the next letter with Ghunnah for (ي, ن, م, و) and without Ghunnah for (ل, ر). Example: مَن يَقُولُ
+[RULE: IQLAB] Iqlab means 'to convert'. Change the Noon Sakinah or Tanween into a hidden Meem sound with Ghunnah when followed by the letter ب. Example: مِن بَعْدِ
+[RULE: IKHFA] Ikhfa means 'to hide'. Conceal the Noon Sakinah or Tanween sound with a light Ghunnah before the remaining 15 letters of the Arabic alphabet. Example: كِتَابٌ كَرِيمٌ
